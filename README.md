@@ -1,2 +1,4 @@
 # drive2web
-Better and Advanced Version of Drv.tw
+
+>This can contribute to the creation of client-side web pages.
+>And further development can create a complete website.
